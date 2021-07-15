@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="NeedIt Requests by Type">900c18fa2f513010664949e72799b67f</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-15 18:09:48</sys_created_on>
+        <sys_id>b52f547e2f513010664949e72799b6b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>900c18fa2f513010664949e72799b67f</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_report_users_groups_b52f547e2f513010664949e72799b6b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-15 18:09:48</sys_updated_on>
+        <user_id display_value="Fred Luddy">5137153cc611227c000bbd1bd8cd2005</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a397ce24dbf83f40f492c5970596195b</instance_id>
+        <instance_name>dev80141</instance_name>
+        <name>sys_report_users_groups_b52f547e2f513010664949e72799b6b1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="NeedIt Requests by Type">900c18fa2f513010664949e72799b67f</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-15 18:09:48</sys_created_on><sys_id>b52f547e2f513010664949e72799b6b1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>900c18fa2f513010664949e72799b67f</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_report_users_groups_b52f547e2f513010664949e72799b6b1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-15 18:09:48</sys_updated_on><user_id display_value="Fred Luddy">5137153cc611227c000bbd1bd8cd2005</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>956047022</payload_hash>
+        <record_name>900c18fa2f513010664949e72799b67f</record_name>
+        <reverted_from/>
+        <source>99afccb22f513010664949e72799b630</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-15 18:09:48</sys_created_on>
+        <sys_id>7d2f547e2f513010664949e72799b6b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17aab5c43640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-15 18:09:48</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>b52f547ec2513010e198d0bbef47ddb2</update_guid>
+        <update_guid_history>b52f547ec2513010e198d0bbef47ddb2:956047022</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-15 18:25:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>cf3dd3b9eded424d8a2d439dd6a9f439</sys_id>
+        <sys_metadata>b52f547e2f513010664949e72799b6b1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>900c18fa2f513010664949e72799b67f</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt Requests by Type">900c18fa2f513010664949e72799b67f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_b52f547e2f513010664949e72799b6b1</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_b52f547e2f513010664949e72799b6b1">7d2f547e2f513010664949e72799b6b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-15 18:25:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
